@@ -1,6 +1,6 @@
 ## Hi there!
 
-Hello! I'm Jaques Butera call me ## JABU, a Full Stack AI/ML Engineer with a passion for leveraging technology to solve industry challenges and address the world’s most pressing issues.
+Hello! I'm Jaques Butera call me **JABU**, a Full Stack AI/ML Engineer with a passion for leveraging technology to solve industry challenges and address the world’s most pressing issues.
 
 ## Overview
 
