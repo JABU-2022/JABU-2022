@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hi there!
 
-
-Hello! I'm Jacques Butera, a Full Stack AI/ML Engineer with a passion for leveraging technology to solve industry challenges and address the world’s most pressing issues.
+Hello! I'm Jaques Butera call me ## JABU, a Full Stack AI/ML Engineer with a passion for leveraging technology to solve industry challenges and address the world’s most pressing issues.
 
 ## Overview
 
@@ -14,17 +13,17 @@ I specialize in:
 - **Artificial Intelligence (AI)**
 
 I am proficient in:
-- **Python**
-- **JavaScript**
-- **HTML**
-- **CSS**
-- **React.js**
-- **Node.js**
+- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+- ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
 ## Skills and Tools
 
-- **Languages**: Python, JavaScript
-- **Web Development**: HTML, CSS, React.js, Node.js
+- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- **Web Development**: ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white), ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black), ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 - **Data Science and ML**: Pandas, NumPy, Scikit-Learn, TensorFlow, Keras
 - **Databases**: MySQL, MongoDB
 - **Version Control**: Git, GitHub
